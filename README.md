@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sreiram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sreiram/sreiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sreeram, I'm Foward thinking software engineer, with working productively in dynamic environments. Fluent in .NET , Angular, Sql server and Microsoft Azure
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Elasticsearch
+- 📫 you can reach me by my e-mail : ramsri02000@gmail.com / Phone: +91 7904321742
